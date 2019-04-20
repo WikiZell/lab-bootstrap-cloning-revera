@@ -1,0 +1,163 @@
+body {
+    color: #606060;
+    font-family: 'Oxygen',sans-serif;
+    font-size: 14px;
+    background-color: #fff;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.site-logo {
+    margin-bottom: 20px;
+}
+
+.site-logo h1 {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 25px;
+}
+
+.menu {
+    padding: 0px 0px;
+    margin: 30px 0px;
+    height: 60px;
+    border-bottom: none;
+    float: left;
+}
+
+.container-fluid {
+    width: 100%;
+    padding: 0;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.widget-container {
+    padding: 40px 0;
+    background: #ed564b;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0px;
+    background: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+}
+
+.widget-container h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.widget-container span {
+    border: 5px solid #fff;
+    background: transparent;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    display: block;
+    line-height: 65px;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 20px;
+}
+
+
+
+.section-articles-top {
+    margin-top: 40px;
+}
+
+.section-articles-top h2 {    
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+img {
+    width: 280px;
+
+}
+
+.bottom h3{
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    color: #fff;
+}
+
+.bottom{
+    background-color: #3b3b3b;
+    color: #aaaaaa;
+    padding: 20px 0px 40px 0px;
+    border-top: 5px solid #ed564b;
+}
+
+.bottom ul li {
+    height: 100%;
+    line-height: 18px;
+    padding: 7px 0px 7px 0px;
+    clear: left;
+    list-style-type: none;
+    color: #aaa;
+}
+
+.bottom ul {
+    margin: 0px 0px;
+    padding: 0px;
+}
+
+.bottom li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px;
+    border-bottom: 1px dotted rgba(255,255,255,.2);
+}
+
+.footer {
+    background-color: #292929;
+    padding: 10px 0px;
+    color: #eee;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.title {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.title p {
+    font-weight: bold;
+    border-bottom: 1px solid #dfdfdf;
+    color: #aaa;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.section-articles-top h3{
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+}
+
+.section-articles-bottom h3{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.spacer {
+    margin-bottom: 40px;
+}
